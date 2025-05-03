@@ -1,0 +1,22 @@
+Airline,Source,Destination,Total_Stops,Price
+Air India,Delhi,New York,2,15000
+IndiGo,Delhi,London,1,12000
+SpiceJet,Mumbai,New York,3,18000
+Air India,Mumbai,London,2,16000
+IndiGo,Delhi,New York,1,14000
+SpiceJet,Mumbai,London,2,17000
+Air India,Delhi,London,1,13000
+IndiGo,Mumbai,New York,3,19000
+SpiceJet,Delhi,London,2,15500
+Air India,Mumbai,New York,1,14500
+IndiGo,Delhi,New York,2,13500
+SpiceJet,Mumbai,London,1,16500
+Air India,Delhi,London,3,17500
+IndiGo,Mumbai,New York,2,15000
+SpiceJet,Delhi,London,1,12500
+Air India,Mumbai,New York,2,15500
+IndiGo,Delhi,London,1,11000
+SpiceJet,Mumbai,New York,3,18500
+Air India,Delhi,New York,2,16000
+IndiGo,Mumbai,London,1,14000
+SpiceJet,Delhi,London,2,15000
